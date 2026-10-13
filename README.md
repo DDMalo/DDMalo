@@ -1,6 +1,6 @@
 # Hi, I'm David Donoso Malo 👋
 
-### Computer Engineering student · AI & Cybersecurity
+### Computer Engineering student · AI 
 
 Fourth-year Computer Engineering student at the **University of Jaén** (Spain), heading to **Ankara University** (Türkiye) for an Erasmus+ semester in spring 2027.
 I build open-source projects where **AI meets security**: from classifying real-world attacks with LLMs to running a voice assistant entirely on local hardware.
